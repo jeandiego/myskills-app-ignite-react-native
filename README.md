@@ -1,4 +1,4 @@
-![cover](.github/cover.png?style=flat)
+![cover](.github/capa.png?style=flat)
 
 
 ## 💻 Projeto curto
